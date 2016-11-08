@@ -27,4 +27,3 @@ def monty_hall():
 	pylab.show()
 
 monty_hall()
-
